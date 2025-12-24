@@ -35,7 +35,14 @@ public void passValuesToWebtable(io.cucumber.datatable.DataTable d) {
 public void exit() {
    System.out.println("success");
    
+   
    System.out.println("update to master");
+
+   System.out.println("2nd update sai");
+
+   
+  
+
 }
 
 
